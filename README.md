@@ -14,21 +14,21 @@ The SMOTE oversampling and the random oversampling models had the same recall sc
 
 ## Which model had the best geometric mean score?
 
-The combination and the SMOTE models had the best geo mean score of .84.
+The best geometric mean score is the combination and the SMOTE models. Both had a score of .84.
 
 # Ensemble Learning
 
 ## Which model had the best balanced accuracy score?
 
-The Easy ensemble classifer model had the best balanced accuracy score of 0.931601605553446.
+The Easy ensemble classifer model. It had a score of  0.931601605553446.
 
 ## Which model had the best recall score?
 
-The Easy ensemble classifer model had the best recall score of .94.
+The Easy ensemble classifer model. It had the best recall score of .94.
 
 ## Which model had the best geometric mean score?
 
-The Easy ensemble classifer model had the best geo mean of .93.
+The Easy ensemble classifer model. It had the best geometric mean of .93.
 
 ## What are the top three features?
 
