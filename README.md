@@ -1,6 +1,9 @@
 # Risky-Business
 homework 11
-Resampling
+
+
+##Resampling
+
 Which model had the best balanced accuracy score?
 The SMOTE oversampling model has the best balanced accuracy score, it was 0.8388510243681058.
 
@@ -10,7 +13,8 @@ The SMOTE oversampling and the random oversampling models had the same recall sc
 Which model had the best geometric mean score?
 The combination and the SMOTE models had the best geo mean score of .84.
 
-Ensemble Learning
+##Ensemble Learning
+
 Which model had the best balanced accuracy score?
 The Easy ensemble classifer model had the best balanced accuracy score of 0.931601605553446.
 
